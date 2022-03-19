@@ -5,7 +5,7 @@ This application allows a user to create and save their information (questions a
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/cgEC5JI.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/71245496/159107500-4bf4e1a5-a882-41cb-8f67-aa4d452a4234.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
