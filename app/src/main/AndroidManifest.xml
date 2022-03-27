@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FlashCard">
         <activity
+            android:name=".Empty"
+            android:exported="true" />
+        <activity
             android:name=".AddCard"
             android:exported="true" />
         <activity
