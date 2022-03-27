@@ -25,6 +25,10 @@ This application allows a user to create and save their information (questions a
  ## Flash-Card-App
  
  ## Lab 3
+ ### App Walk-though
+
+<img src=" https://user-images.githubusercontent.com/71245496/160275691-f6293230-8a8d-40f9-b8ae-98f9d740c232.gif" width=200><br>
+
  ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
 - [x] User can create muliple cards and browse through all created cards
