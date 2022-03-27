@@ -20,6 +20,14 @@ This application allows a user to create and save their information (questions a
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+-
 
  ## Flash-Card-App
+ 
+ ## Lab 3
+ ## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+## Optional
+- [x] User can delete a card and no longer see it in their deck anymore
 
