@@ -1,3 +1,4 @@
+
 ## Lab 2
 
 ### App Description
@@ -35,4 +36,11 @@ This application allows a user to create and save their information (questions a
 - [x] User can create muliple cards and browse through all created cards
 ## Optional
 - [x] User can delete a card and no longer see it in their deck anymore
+
+
+## Lab 4
+- [x]  User sees a transition animation when going from the main screen to the add card screen.
+- [x]  User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x]  User sees flashcards animating in / out when the 'next' button is tapped
+
 
